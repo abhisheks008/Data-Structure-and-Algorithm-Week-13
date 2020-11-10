@@ -8,7 +8,7 @@ Here's the solution for Data Structure and Algorithm Lab Week 13 problems of UEM
 |Sl.|Problem|Difficulty|Max. score|Language|Status|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |1.|Tree: Height of a Binary Tree|Easy|10|CPP|Solved|
-|2.|Number of Binary Search Tree|Medium|10|Python 3|Solved|
+|2.|Number of Binary Search Tree|Medium|10|Haskell|Solved|
 |3.|Binary Search Tree : Insertion|Easy|10|CPP|Solved|
 |4.|Binary Search Tree : Lowest Common Ancestor|Easy|10|Python 3|Solved|
 |5.|Is this a Binary Search Tree?|Medium|10|Python 3|Solved|
